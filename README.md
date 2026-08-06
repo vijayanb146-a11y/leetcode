@@ -21,10 +21,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
