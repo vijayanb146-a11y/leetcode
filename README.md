@@ -31,11 +31,13 @@
 | [0724-find-pivot-index](https://github.com/vijayanb146-a11y/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/vijayanb146-a11y/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/vijayanb146-a11y/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2485-find-the-pivot-integer](https://github.com/vijayanb146-a11y/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vijayanb146-a11y/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
