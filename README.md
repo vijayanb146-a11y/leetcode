@@ -144,3 +144,15 @@ two pointers, recursion, and other fundamental algorithms.
 <p>
   Short time goal: To master DSA
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
