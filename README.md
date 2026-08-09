@@ -1,71 +1,143 @@
-# leetcode
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/vijayanb146-a11y/leetcode/tree/master/0206-reverse-linked-list) |
-| [0237-delete-node-in-a-linked-list](https://github.com/vijayanb146-a11y/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
-| [0876-middle-of-the-linked-list](https://github.com/vijayanb146-a11y/leetcode/tree/master/0876-middle-of-the-linked-list) |
-## Approach
-|  |
-| ------- |
-## Complexity
-|  |
-| ------- |
-## Recursion
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/vijayanb146-a11y/leetcode/tree/master/0206-reverse-linked-list) |
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0724-find-pivot-index](https://github.com/vijayanb146-a11y/leetcode/tree/master/0724-find-pivot-index) |
-| [1480-running-sum-of-1d-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/1480-running-sum-of-1d-array) |
-| [1732-find-the-highest-altitude](https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude) |
-| [1863-sum-of-all-subset-xor-totals](https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
-| [2574-left-and-right-sum-differences](https://github.com/vijayanb146-a11y/leetcode/tree/master/2574-left-and-right-sum-differences) |
-## Prefix Sum
-|  |
-| ------- |
-| [0724-find-pivot-index](https://github.com/vijayanb146-a11y/leetcode/tree/master/0724-find-pivot-index) |
-| [1480-running-sum-of-1d-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/1480-running-sum-of-1d-array) |
-| [1732-find-the-highest-altitude](https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude) |
-| [2485-find-the-pivot-integer](https://github.com/vijayanb146-a11y/leetcode/tree/master/2485-find-the-pivot-integer) |
-| [2574-left-and-right-sum-differences](https://github.com/vijayanb146-a11y/leetcode/tree/master/2574-left-and-right-sum-differences) |
-## Math
-|  |
-| ------- |
-| [1863-sum-of-all-subset-xor-totals](https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
-| [2485-find-the-pivot-integer](https://github.com/vijayanb146-a11y/leetcode/tree/master/2485-find-the-pivot-integer) |
-| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vijayanb146-a11y/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
-## Backtracking
-|  |
-| ------- |
-| [1863-sum-of-all-subset-xor-totals](https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1863-sum-of-all-subset-xor-totals](https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
-## Combinatorics
-|  |
-| ------- |
-| [1863-sum-of-all-subset-xor-totals](https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
-## Enumeration
-|  |
-| ------- |
-| [1863-sum-of-all-subset-xor-totals](https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-<!---LeetCode Topics End-->
+<h1>LeetCode Solutions</h1>
+
+<p>
+Solutions to LeetCode problems implemented in C.
+Problems are organized by topic and algorithmic approach.
+</p>
+
+<h2>Linked List</h2>
+
+<table>
+<tr>
+<th>Problem</th>
+<th>Solution</th>
+</tr>
+
+<tr>
+<td>206 - Reverse Linked List</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/0206-reverse-linked-list">View Solution</a></td>
+</tr>
+
+<tr>
+<td>237 - Delete Node in a Linked List</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/0237-delete-node-in-a-linked-list">View Solution</a></td>
+</tr>
+
+<tr>
+<td>876 - Middle of the Linked List</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/0876-middle-of-the-linked-list">View Solution</a></td>
+</tr>
+</table>
+
+<h2>Array</h2>
+
+<table>
+<tr>
+<th>Problem</th>
+<th>Solution</th>
+</tr>
+
+<tr>
+<td>26 - Remove Duplicates from Sorted Array</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array">View Solution</a></td>
+</tr>
+
+<tr>
+<td>27 - Remove Element</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element">View Solution</a></td>
+</tr>
+
+<tr>
+<td>167 - Two Sum II</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted">View Solution</a></td>
+</tr>
+
+<tr>
+<td>724 - Find Pivot Index</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/0724-find-pivot-index">View Solution</a></td>
+</tr>
+
+<tr>
+<td>1480 - Running Sum of 1d Array</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/1480-running-sum-of-1d-array">View Solution</a></td>
+</tr>
+
+<tr>
+<td>1732 - Find the Highest Altitude</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude">View Solution</a></td>
+</tr>
+
+<tr>
+<td>1863 - Sum of All Subset XOR Totals</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals">View Solution</a></td>
+</tr>
+
+<tr>
+<td>2574 - Left and Right Sum Differences</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/2574-left-and-right-sum-differences">View Solution</a></td>
+</tr>
+</table>
+
+<h2>Algorithms and Techniques</h2>
+
+<h3>Prefix Sum</h3>
+
+<ul>
+<li>724 - Find Pivot Index</li>
+<li>1480 - Running Sum of 1d Array</li>
+<li>1732 - Find the Highest Altitude</li>
+<li>2485 - Find the Pivot Integer</li>
+<li>2574 - Left and Right Sum Differences</li>
+</ul>
+
+<h3>Two Pointers</h3>
+
+<ul>
+<li>26 - Remove Duplicates from Sorted Array</li>
+<li>27 - Remove Element</li>
+<li>167 - Two Sum II</li>
+</ul>
+
+<h3>Binary Search</h3>
+
+<ul>
+<li>167 - Two Sum II</li>
+</ul>
+
+<h3>Recursion</h3>
+
+<ul>
+<li>206 - Reverse Linked List</li>
+</ul>
+
+<h3>Backtracking</h3>
+
+<ul>
+<li>1863 - Sum of All Subset XOR Totals</li>
+</ul>
+
+<h2>Complexity</h2>
+
+<table>
+<tr>
+<th>Metric</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>Time Complexity</td>
+<td>Running time of the solution</td>
+</tr>
+
+<tr>
+<td>Space Complexity</td>
+<td>Additional memory used</td>
+</tr>
+</table>
+
+<h2>Progress</h2>
+
+<p>
+Currently solving problems related to arrays, linked lists, prefix sum,
+two pointers, recursion, and other fundamental algorithms.
+</p>
