@@ -90,7 +90,7 @@ Problems are organized by topic and algorithmic approach.
 <table>
   <tr><th>Problem </th><th>solution</th></tr>
   <tr><td>3754 - Concatenate Non-Zero Digits and Multiply by Sum I</td>
-  <td><a href="https://github.com/vijayanb146-a11y/leetcode/blob/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.c"></a></td></tr>
+  <td><a href="https://github.com/vijayanb146-a11y/leetcode/blob/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.c">View Solution</a></td></tr>
   
 </table>
 
