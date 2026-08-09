@@ -22,6 +22,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/vijayanb146-a11y/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -62,4 +63,9 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
