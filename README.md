@@ -76,8 +76,22 @@ Problems are organized by topic and algorithmic approach.
 <td>2574 - Left and Right Sum Differences</td>
 <td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/2574-left-and-right-sum-differences">View Solution</a></td>
 </tr>
+<tr>
 <td>283 - Move Zeroes</td>
-<td><a href ="https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes">View Solution</td>
+<td><a href ="https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes">View Solution
+</a></td></tr>
+<tr>
+<td>2485 - Find Pivot integer</td>
+<td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/main/2485-find-the-pivot-integer">View Solution</a></td>
+</tr>
+</table>
+<br>
+<h2>Math</h2>
+<table>
+  <tr><th>Problem </th><th>solution</th></tr>
+  <tr><td>3754 - Concatenate Non-Zero Digits and Multiply by Sum I</td>
+  <td><a href="https://github.com/vijayanb146-a11y/leetcode/blob/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.c"></a></td></tr>
+  
 </table>
 
 <h2>Algorithms and Techniques</h2>
@@ -117,6 +131,13 @@ Problems are organized by topic and algorithmic approach.
 
 <ul>
 <li>1863 - Sum of All Subset XOR Totals</li>
+</ul>
+
+
+<h3>Math</h3>
+
+<ul>
+  <li>3754 - Concatenate Non-Zero Digits and Multiply by Sum I</li>
 </ul>
 
 <h2>Complexity</h2>
