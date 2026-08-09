@@ -76,6 +76,8 @@ Problems are organized by topic and algorithmic approach.
 <td>2574 - Left and Right Sum Differences</td>
 <td><a href="https://github.com/vijayanb146-a11y/leetcode/tree/master/2574-left-and-right-sum-differences">View Solution</a></td>
 </tr>
+<td>283 - Move Zeroes</td>
+<td><a href ="https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes">View Solution</td>
 </table>
 
 <h2>Algorithms and Techniques</h2>
@@ -96,6 +98,7 @@ Problems are organized by topic and algorithmic approach.
 <li>26 - Remove Duplicates from Sorted Array</li>
 <li>27 - Remove Element</li>
 <li>167 - Two Sum II</li>
+  <li>283-Move zeroes</li>
 </ul>
 
 <h3>Binary Search</h3>
@@ -145,14 +148,3 @@ two pointers, recursion, and other fundamental algorithms.
   Short time goal: To master DSA
 </p>
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes) |
-## Two Pointers
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes) |
-<!---LeetCode Topics End-->
