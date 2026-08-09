@@ -141,3 +141,6 @@ Problems are organized by topic and algorithmic approach.
 Currently solving problems related to arrays, linked lists, prefix sum,
 two pointers, recursion, and other fundamental algorithms.
 </p>
+<p>
+  Short time goal: To master DSA
+</p>
