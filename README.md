@@ -169,3 +169,19 @@ two pointers, recursion, and other fundamental algorithms.
   Short time goal: To master DSA
 </p>
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
