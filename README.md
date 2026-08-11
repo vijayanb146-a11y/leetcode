@@ -180,8 +180,13 @@ two pointers, recursion, and other fundamental algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/vijayanb146-a11y/leetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vijayanb146-a11y/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
