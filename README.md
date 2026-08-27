@@ -176,6 +176,7 @@ two pointers, recursion, and other fundamental algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
+| [0238-product-of-array-except-self](https://github.com/vijayanb146-a11y/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,4 +190,8 @@ two pointers, recursion, and other fundamental algorithms.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vijayanb146-a11y/leetcode/tree/master/0125-valid-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/vijayanb146-a11y/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
