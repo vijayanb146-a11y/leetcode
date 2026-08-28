@@ -237,7 +237,6 @@ Short time goal: To master DSA
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Array
 |  |
 | ------- |
@@ -253,7 +252,6 @@ Short time goal: To master DSA
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vijayanb146-a11y/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/vijayanb146-a11y/leetcode/tree/main/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/vijayanb146-a11y/leetcode/tree/master/2574-left-and-right-sum-differences) |
-
 ## Two Pointers
 |  |
 | ------- |
@@ -263,17 +261,14 @@ Short time goal: To master DSA
 | [0125-valid-palindrome](https://github.com/vijayanb146-a11y/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes) |
-
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
-
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vijayanb146-a11y/leetcode/tree/master/0125-valid-palindrome) |
-
 ## Prefix Sum
 |  |
 | ------- |
@@ -283,4 +278,8 @@ Short time goal: To master DSA
 | [1732-find-the-highest-altitude](https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/vijayanb146-a11y/leetcode/tree/main/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/vijayanb146-a11y/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vijayanb146-a11y/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
