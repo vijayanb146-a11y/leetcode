@@ -283,4 +283,5 @@ Short time goal: To master DSA
 | ------- |
 | [0175-combine-two-tables](https://github.com/vijayanb146-a11y/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vijayanb146-a11y/leetcode/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/vijayanb146-a11y/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
