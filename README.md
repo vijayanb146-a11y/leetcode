@@ -241,6 +241,7 @@ Short time goal: To master DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vijayanb146-a11y/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -256,6 +257,7 @@ Short time goal: To master DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijayanb146-a11y/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vijayanb146-a11y/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vijayanb146-a11y/leetcode/tree/master/0125-valid-palindrome) |
@@ -285,4 +287,8 @@ Short time goal: To master DSA
 | [0176-second-highest-salary](https://github.com/vijayanb146-a11y/leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/vijayanb146-a11y/leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/vijayanb146-a11y/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vijayanb146-a11y/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
