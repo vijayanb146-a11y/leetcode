@@ -244,6 +244,7 @@ Short time goal: To master DSA
 | [0015-3sum](https://github.com/vijayanb146-a11y/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vijayanb146-a11y/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/vijayanb146-a11y/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes) |
@@ -260,6 +261,7 @@ Short time goal: To master DSA
 | [0015-3sum](https://github.com/vijayanb146-a11y/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vijayanb146-a11y/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vijayanb146-a11y/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vijayanb146-a11y/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes) |
@@ -293,4 +295,13 @@ Short time goal: To master DSA
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vijayanb146-a11y/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vijayanb146-a11y/leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vijayanb146-a11y/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vijayanb146-a11y/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
