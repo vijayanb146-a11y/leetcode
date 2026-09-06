@@ -248,6 +248,7 @@ Short time goal: To master DSA
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayanb146-a11y/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/vijayanb146-a11y/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vijayanb146-a11y/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vijayanb146-a11y/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/vijayanb146-a11y/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vijayanb146-a11y/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vijayanb146-a11y/leetcode/tree/master/1732-find-the-highest-altitude) |
