@@ -292,6 +292,7 @@ Short time goal: To master DSA
 | [0184-department-highest-salary](https://github.com/vijayanb146-a11y/leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/vijayanb146-a11y/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/vijayanb146-a11y/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0627-swap-sex-of-employees](https://github.com/vijayanb146-a11y/leetcode/tree/master/0627-swap-sex-of-employees) |
 ## Sorting
 |  |
 | ------- |
